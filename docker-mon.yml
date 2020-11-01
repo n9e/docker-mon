@@ -1,0 +1,6 @@
+---
+# cadvisorUrl: "http://127.0.0.1:4194/"
+logger:
+  dir: logs
+  level: DEBUG
+  keepHours: 2
