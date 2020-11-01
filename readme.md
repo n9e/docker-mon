@@ -13,7 +13,7 @@
 
 ## 前置依赖
 1. docker容器所在宿主机已安装并启动了cadvisor
-2. docker容器的环境变量中包含 N9E_NID ，N9E_NID 的内容为夜莺服务树节点id
+2. docker容器的环境变量中包含 N9E_NID ，N9E_NID 的内容为夜莺服务树节点id，如果设置 N9E_NID = 1，则到节点id为1的节点下，就可以容器的监控指标
 
 ## 使用方式
 1. 将 docker-mon、docker-mon.yml 分发到容器所在的宿主机上
