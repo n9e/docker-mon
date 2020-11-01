@@ -23,3 +23,6 @@
 
 3. 配置完之后，到即时看图，选择对应的节点，再选择设备无关，即可查看采集到的容器监控指标
 ![docker-metric](https://s3-gz01.didistatic.com/n9e-pub/image/docker_metric.png)
+
+## 视频教程
+[观看地址](https://s3-gz01.didistatic.com/n9e-pub/video/n9e-docker-mon.mp4)
