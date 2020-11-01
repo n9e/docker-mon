@@ -27,7 +27,6 @@ _test
 /docker-mon
 /bin
 /out
-/build
 /dist
 
 .idea

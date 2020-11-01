@@ -16,5 +16,10 @@
 2. docker容器的环境变量中包含 N9E_NID ，N9E_NID 的内容为夜莺服务树节点id
 
 ## 使用方式
-将 docker-mon、docker-mon.yml 分发到容器所在的宿主机上，到宿主机所在的节点配置插件采集即可
+1. 将 docker-mon、docker-mon.yml 分发到容器所在的宿主机上
+2. 到宿主机所属节点配置插件采集
+
 ![docker-mon](https://s3-gz01.didistatic.com/n9e-pub/image/docker.png)
+
+3. 配置完之后，到即时看图，选择对应的节点，再选择设备无关，即可查看采集到的容器监控指标
+![docker-metric](https://s3-gz01.didistatic.com/n9e-pub/image/docker_metric.png)
