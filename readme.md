@@ -29,48 +29,48 @@
 
 ## 指标列表
 
-- CPU
-cpu.user
-cpu.sys
-cpu.idle
-cpu.util
-cpu.periods
-cpu.throttled_periods
-cpu.throttled_time
+- CPU    
+cpu.user    
+cpu.sys    
+cpu.idle    
+cpu.util    
+cpu.periods    
+cpu.throttled_periods    
+cpu.throttled_time    
 
-- 内存
-mem.bytes.total
-mem.bytes.used
-mem.bytes.used.percent
-mem.bytes.cached
-mem.bytes.rss
-mem.bytes.swap
+- 内存    
+mem.bytes.total    
+mem.bytes.used    
+mem.bytes.used.percent    
+mem.bytes.cached    
+mem.bytes.rss    
+mem.bytes.swap    
 
-- 磁盘
-disk.io.read.bytes
-disk.io.write.bytes	
-disk.bytes.total
-disk.bytes.used
-disk.bytes.used.percent
+- 磁盘    
+disk.io.read.bytes    
+disk.io.write.bytes	    
+disk.bytes.total    
+disk.bytes.used    
+disk.bytes.used.percent    
 
-- 网络
-net.sockets.tcp.timewait
-net.in.bits
-net.in.pps
-net.in.errs
-net.in.dropped
-net.out.bits
-net.out.pps
-net.out.errs
-net.out.dropped
-net.tcp.established
+- 网络    
+net.sockets.tcp.timewait    
+net.in.bits    
+net.in.pps    
+net.in.errs    
+net.in.dropped    
+net.out.bits    
+net.out.pps    
+net.out.errs    
+net.out.dropped    
+net.tcp.established    
 
-- 系统
-sys.ps.process.used
-sys.ps.thread.used
-sys.fd.count.used
-sys.socket.count.used
-sys.restart.count
+    - 系统    
+sys.ps.process.used    
+sys.ps.thread.used    
+sys.fd.count.used    
+sys.socket.count.used    
+sys.restart.count    
 
 
 
