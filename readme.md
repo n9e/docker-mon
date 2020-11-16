@@ -65,7 +65,7 @@ net.out.errs
 net.out.dropped    
 net.tcp.established    
 
-    - 系统    
+- 系统    
 sys.ps.process.used    
 sys.ps.thread.used    
 sys.fd.count.used    
